@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventario Hardware</string>
+    <string name="title_inventario">Inventario de Hardware</string>
+    <string name="valor_total_label">Valor Total</string>
+    <string name="productos_registrados_label">Productos Registrados</string>
+    <string name="buscar_hint">Buscar código, nombre o tipo&#8230;</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="nuevo_producto">Nuevo Producto</string>
+    <string name="incrementar_stock">Adicionar Stock</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipo">Categoría de Hardware</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio_unitario">Precio Unitario ($)</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="sin_productos">No hay productos en inventario</string>
+    <string name="error_campo_requerido">Campo obligatorio</string>
+</resources>
