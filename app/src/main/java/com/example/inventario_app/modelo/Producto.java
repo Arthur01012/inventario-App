@@ -87,11 +87,11 @@ public class Producto {
         //asigbna el valor al atributo
         this.precioUnitario = precioUnitario;
     }
-    //
+    //get para obtener el subtotal
     public double getSubtotal() {
         return cantidad * precioUnitario;
     }
-
+    // retorna el codigo y el nombre
     @Override
     public String toString() {
         return codigo + " - " + nombre;
